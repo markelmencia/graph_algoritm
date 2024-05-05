@@ -5,7 +5,7 @@ Some algoritms related to Graph Theory.
 Graph Theory is a very prevalent field in Computer Science and is used in several algoritms for a wide range of purposes. These are some graph algoritms I've learned in my Discrete Mathematics class, coded in Python.
 \
 \
-Especial thanks to Dr. José Fernando Díaz Martín for a year of excepcional education in Algebra and Discreet Mathematics and for his help in this proyect.
+Especial thanks to Dr. José Fernando Díaz Martín for a year of excepcional education in Algebra and Discreet Mathematics and for answering some questions I had regarding these algoritms.
 
 ## Graph Isomorphism Algoritm
 
